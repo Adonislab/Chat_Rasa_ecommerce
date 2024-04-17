@@ -1,0 +1,27 @@
+# Fichiers et répertoires générés
+__pycache__/
+logs/
+models/
+data/
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tgz
+*.egg-info/
+*.egg
+*.dist-info/
+*.dist
+*.pyc
+*.pyo
+*.pyd
+*.repl
+*.sentryclirc
+*.env
+*.DS_Store
+*.idea/
+*.vscode/
+
+# Fichiers sensibles
+credentials.yml
+config.yml
+auth/
